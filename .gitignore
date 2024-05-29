@@ -403,3 +403,4 @@ dist
 .webpack
 .serverless/**/*.zip
 application.log
+redis.conf
